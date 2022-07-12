@@ -2,6 +2,7 @@ package info;
 
 public class Array {
     public static void main(String[] args){
+        // shorting array..
         int number[] = {2,1,-3,4,8};
         boolean shorted = true;
         int temp;
